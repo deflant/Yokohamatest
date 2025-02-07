@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New My custom tasks</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>My custom tasks</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">b53fe24b3b13121001bf303eb3e45a38</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-07 14:45:29</sys_created_on>
+        <sys_id>d9ff310a3beb9a1001bf303eb3e45a85</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My custom tasks</sys_name>
+        <sys_package display_value="Yokohama Test" source="x_snc_yokohama_t_0">639ff5c63beb9a1001bf303eb3e45a01</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Yokohama Test">639ff5c63beb9a1001bf303eb3e45a01</sys_scope>
+        <sys_update_name>sys_wizard_answer_d9ff310a3beb9a1001bf303eb3e45a85</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-07 14:45:29</sys_updated_on>
+        <table/>
+        <target_url>x_snc_yokohama_t_0_my_custom_tasks.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

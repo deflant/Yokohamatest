@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4dff310a3beb9a1001bf303eb3e45a5b" extends="task" label="My custom tasks" max_length="40" name="x_snc_yokohama_t_0_my_custom_tasks" type="collection"/>
+</database>
